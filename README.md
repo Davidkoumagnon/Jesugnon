@@ -21,4 +21,5 @@ Feel free to explore my repositories to see my projects and contributions. I am 
 
 **Contact:**
 - Email: dkoumagnon@africanschoolofeconomics.com
+- Linkedin : www.linkedin.com/in/jdjk
 
