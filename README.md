@@ -1,24 +1,21 @@
-Welcome to my GitHub profile! I am a dedicated and detail-oriented researcher with a strong background in Mathematics, Economics, and Statistics. I am passionate about using data to drive impactful research and policy decisions.
+I have successfully completed a 16-week and 8 end-to-end, applied data science projects of the Applied Data Science Lab module at WorldQuant University. The mini-projects included scientific computing, data wrangling, machine learning and natural language processing with Python.
 
-**About Me:**
-- **Education:** Master’s Degree in Mathematics, Economics, and Statistics from the African School of Economics (ASE), and a Bachelor's Degree in Applied Statistics from the National School of Statistics, Planning and Demography.
-- **Professional Experience:** Research Assistant at ASE, Macroeconomics Teaching Assistant, Data Analyst Junior at Faith Services, and internships at the Direction Générale du Trésor et de la Comptabilité Publics du Bénin and the National Institute of Agricultural Research of Benin.
-- **Technical Skills:** Proficient in R, STATA, Python, SQL, MongoDB, LaTeX, QGIS, and various data visualization tools. Experienced in econometric analysis, causal inference, and machine learning.
-- **Certifications:** Completed various courses in reproducible research, field research management, macroeconomic diagnostics, and machine learning from prestigious institutions like the World Bank, IMF, and Dataquest.io.
+The project highlights:
 
-**Projects:**
-- Research on non-tariff determinants of household electricity grid connection decisions in Benin.
-- Boko-Haram Violence and Climate Change in the Lake Chad
-- Analysis and prediction of prices for Super Micro Computer Inc.
-- Impact study on mobile money services in agriculture in Benin.
+HOUSING IN MEXICO: A dataset of 21,000 properties was used to determine if real estate prices are influenced more by property size or location. Imported and cleaned data from a CSV file, built data visualizations, and examined the relationship between two variables using correlation.
 
-**Interests:**
-- Data Science and Artificial Intelligence
-- Research and Policy Development
-- Football, Reading, and Music
+APARTMENT SALES IN BUENOS AIRES: Built a linear regression model to predict apartment prices in Argentina. Created a data pipeline to impute missing values and encode categorical features, and then improved the model performance by reducing overfitting.
 
-Feel free to explore my repositories to see my projects and contributions. I am always open to collaboration and new opportunities to apply my skills and knowledge to solve real-world problems.
+AIR QUALITY IN NAIROBI: Built an ARMA time-series model to predict particulate matter levels in Kenya, extracted data from a MongoDB database using pymongo, and improved model performance through hyperparameter tuning.
 
-**Contact:**
-- Email: \ref{dkoumagnon@africanschoolofeconomics.com}
+EARTHQUAKE DAMAGE IN NEPAL: Built logistic regression and decision tree models to predict earthquake damage to buildings, extracted data from a SQLite database, and revealed the biases in the data that can lead to discrimination.
 
+BANKRUPTCY IN POLAND: Built random forest and gradient boosting models to predict whether a company will go bankrupt, navigated the Linux command line, addressed imbalanced data through resampling, and considered the impact of performance metrics precision and recall.
+
+CUSTOMER SEGMENTATION IN THE US: Built a k-means model to cluster US consumers into groups, used principal component analysis (PCA) for data visualization, and then created an interactive dashboard with Plotly Dash.
+
+A/B TESTING AT WORLDQUANT UNIVERSITY: Conducted a chi-square test to determine if sending an email can increase program enrollment at WQU, built custom Python classes to implement an ETL process, and created an interactive data application following a three-tiered design pattern.
+
+VOLATILITY FORECASTING IN INDIA: Created a GARCH time series model to predict asset volatility, acquired stock data through an API, cleaned and stored it in a SQLite database, and then built an API to serve model predictions.
+My certificate can be viewed using this link https://www.credly.com/badges/92605804-fc41-4bdc-afc7-85df67ea4e43/linked_in_profile
+DUE TO COPYRIGHT ISSUES THE CODE CONTENT OF THE PROJECTS WON’T BE UPLOADED!!
