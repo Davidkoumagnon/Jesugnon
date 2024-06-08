@@ -1,8 +1,5 @@
 ---
-title: |
-  \
-  \includegraphics[width=6cm]{C:/Users/Admiral/Downloads/ASE_logo.jpg}
-  **Quantitative Finance**
+title: **SMCI Stock Price Forecasting using ARIMA**
 author: "Jesugnon David Janvier KOUMAGNON"
 date: "_`r format(Sys.time(), '%d %B, %Y')`_"
 output:
