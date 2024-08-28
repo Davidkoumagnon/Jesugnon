@@ -7,6 +7,8 @@ Welcome to my GitHub profile! I am a dedicated and detail-oriented researcher wi
 - **Certifications:** Completed various courses in reproducible research, field research management, macroeconomic diagnostics, and machine learning from prestigious institutions like the World Bank, IMF, and Dataquest.io.
 
 **Projects:**
+- Multidimensional Analysis of Child Poverty in Côte d'Ivoire using MODA approach (In accordance with UNICEF)
+- Impact of Education Quality on Labour Market Outcomes in Burkina-Faso
 - Research on non-tariff determinants of household electricity grid connection decisions in Benin.
 - Boko-Haram Violence and Climate Change in the Lake Chad
 - Analysis and prediction of prices for Super Micro Computer Inc.
@@ -20,5 +22,5 @@ Welcome to my GitHub profile! I am a dedicated and detail-oriented researcher wi
 Feel free to explore my repositories to see my projects and contributions. I am always open to collaboration and new opportunities to apply my skills and knowledge to solve real-world problems.
 
 **Contact:**
-- Email: dkoumagnon@africanschoolofeconomics.com
+- Email: dkoumagnon@africanschoolofeconomics.com / davkoumagnon2001@outlook.com
 - Linkedin : www.linkedin.com/in/jdjk
